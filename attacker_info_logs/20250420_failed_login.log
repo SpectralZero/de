@@ -1,0 +1,26 @@
+[2025-04-20T14:19:44.339092Z] New Failed Login Attempt
+Username       : RTX
+Hostname       : Jamal-PC
+Public IP      : 94.249.50.21
+Location       : Amman, Amman, JO (AS8376 Jordan Data Communications Company LLC)
+Local IPs      : Ethernet: 192.168.1.18
+Local IPs      : Ethernet 3: 192.168.56.1, fe80::f1:921c:9303:15b
+Local IPs      : Wi-Fi: 169.254.100.27, fe80::df64:b9b8:2981:88ae
+Local IPs      : Local Area Connection* 9: 169.254.97.60, fe80::bc4d:c3f0:e7cf:8460
+Local IPs      : Local Area Connection* 10: 169.254.76.3, fe80::6e3a:62c9:334c:990e
+Local IPs      : VMware Network Adapter VMnet1: 192.168.33.1, fe80::bf3c:79fc:5ada:d6c
+Local IPs      : VMware Network Adapter VMnet8: 192.168.253.1, fe80::f0d5:4214:d18c:4f77
+Local IPs      : vEthernet (Default Switch): 172.30.144.1, fe80::3ce0:f08c:a9bf:b61f
+Local IPs      : Loopback Pseudo-Interface 1: 127.0.0.1, ::1
+MAC Address    : Ethernet: 74-56-3C-55-98-CB
+MAC Address    : Ethernet 3: 0A-00-27-00-00-18
+MAC Address    : Wi-Fi: 2C-33-58-52-52-38
+MAC Address    : Local Area Connection* 9: 2C-33-58-52-52-39
+MAC Address    : Local Area Connection* 10: 2E-33-58-52-52-38
+MAC Address    : VMware Network Adapter VMnet1: 00-50-56-C0-00-01
+MAC Address    : VMware Network Adapter VMnet8: 00-50-56-C0-00-08
+MAC Address    : vEthernet (Default Switch): 00-15-5D-A6-7C-30
+OS             : Windows (10.0.26100) AMD64
+Default Gateway: 192.168.56.1
+UUID Hash      : 3101a8924f730c7a3cdc63c2354b0bbb74e3f2b67b2e58460ca75ab98ac5ffe0
+------------------------------------------------------------
